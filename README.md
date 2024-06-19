@@ -1,5 +1,6 @@
 # Personal-Profile
 ENGG980 Personal Website
+Below is my personal profile, giving some basic information about me, as well as my experience with projects related to development and their code
 # Huang Xinchen
 
 ## Personal Information
