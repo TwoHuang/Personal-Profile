@@ -32,12 +32,14 @@ ENGG980 Personal Website
    - Main Responsibilities:
      1. Design and optimize visual reconstruction experiments based on EEG signals
      2. Use Diffusion model and CLIP to write Python programs to reconstruct stimulus images from EEG signals
+    Project Link ：https://github.com/TwoHuang/EEG-IMAGE-Reconstraction
 2. **2019 Embedded System Design Competition** (2019.06-2019.10)
    - Project Leader
    - Main Responsibilities:
      1. Responsible for the design and implementation of the voice interaction and environmental parameter adjustment modules
      2. Implemented sound signal acquisition and called Baidu API to realize voice Q&A function in the Ubuntu system using C language
      3. Used DHT11 module to collect environmental temperature and humidity data, used PCF8591 to collect light intensity data, and controlled environmental parameters based on the data
+    Project Link ：https://github.com/TwoHuang/EEG-IMAGE-Reconstraction](https://github.com/TwoHuang/dueros
 3. **Hat Recognition and Classification in Images** (2019.03-2019.06)
    - Project Leader
    - Main Responsibilities:
