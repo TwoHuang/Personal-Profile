@@ -4,7 +4,7 @@ Below is my personal profile, giving some basic information about me, as well as
 # Huang Xinchen
 
 ## Personal Information
-![Image text]（https://github.com/TwoHuang/image/blob/main/QQ%E6%88%AA%E5%9B%BE20240619153411.png)
+![Image text](https://github.com/TwoHuang/image/blob/main/QQ%E6%88%AA%E5%9B%BE20240619153411.png)
 - Gender: Male
 - Age: 25
 - Hometown: Yichun
